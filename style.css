@@ -347,6 +347,11 @@ line-height: 1.2;
     .navbar.active{
         right: 0;
     }
+    .navbar a { 
+        margin-left: 0; 
+        margin-bottom: 2rem; 
+        padding: 1rem 2rem; 
+    }
     .home{
         flex-direction: column;
     }
